@@ -33,3 +33,7 @@
 
 * ```cd F-Tool; sh installCentOS.sh```
 
+Tool cũ thằng dec ngu nên đã có xíu lỗi, ae sài tool này có lỗi ib fb mình nhé
+url fb: https://www.facebook.com/DoHoangLam.X.Developer 
+
+Thanks you verymuch
